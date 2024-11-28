@@ -11,7 +11,6 @@ from transformers.models.llama.modeling_llama import (
     CausalLMOutputWithPast,
     List,
     Union,
-    CrossEntropyLoss,
     BaseModelOutputWithPast,
 )
 import types

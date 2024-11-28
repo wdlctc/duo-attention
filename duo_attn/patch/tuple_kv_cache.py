@@ -8,7 +8,6 @@ from transformers.models.llama.modeling_llama import (
     CausalLMOutputWithPast,
     List,
     Union,
-    CrossEntropyLoss,
     BaseModelOutputWithPast,
     apply_rotary_pos_emb,
 )

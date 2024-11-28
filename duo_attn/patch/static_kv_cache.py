@@ -4,7 +4,6 @@ from transformers.models.llama.modeling_llama import (
     LlamaForCausalLM,
     CausalLMOutputWithPast,
     Union,
-    CrossEntropyLoss,
     BaseModelOutputWithPast,
 )
 from transformers.models.mistral.modeling_mistral import (
